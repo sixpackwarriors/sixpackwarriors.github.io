@@ -35,6 +35,11 @@ body #content {
   	}
   }
 
+  article.page, section#comment {
+    width: 90%;
+    margin: auto;
+  }
+
   article.post, .share {
     margin: auto;
     width: 90%;
