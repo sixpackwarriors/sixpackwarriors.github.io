@@ -23,6 +23,12 @@
   }
 }
 
+body article.post-summary {
+  .post-image img {
+    // object-fit: cover;
+  }
+}
+
 body article .entry-content {
   blockquote {
     background: rgba(255, 176, 0, 0.35);
