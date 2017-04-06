@@ -38,5 +38,5 @@ Perform these exercises for 45 seconds straight, then take a 15 second rest. Rep
 
 Try this out guys. I promise, if you ever wake up with a hangover, this is the best way you can get rid of it and get on with your day.
 
-Let's get to it guys.<br/>
+Cheers,<br/>
 Ken

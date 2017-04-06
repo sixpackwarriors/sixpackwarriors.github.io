@@ -4,7 +4,6 @@
 @import "plugins";
 
 // Custom shit here
-
 .giphy-embed {
   text-align: center;
   margin: auto;
@@ -23,7 +22,19 @@
   }
 }
 
+h2 + .date-wrapper {
+  p {
+    color: #999;
+    font-size: 14px;
+    margin-top: -5px;
+    margin-bottom: 15px;
+  }
+}
+
 body article.post-summary {
+  border-bottom: 1px solid #eee;
+  padding: 50px 0;
+  
   .post-image img {
     // object-fit: cover;
   }
