@@ -34,35 +34,55 @@ h2 + .date-wrapper {
 body article.post-summary {
   border-bottom: 1px solid #eee;
   padding: 50px 0;
-  
+
   .post-image img {
     // object-fit: cover;
   }
 }
 
-body article .entry-content {
-  blockquote {
-    background: rgba(255, 176, 0, 0.35);
-    border-left: 5px solid #ffb000;
-    font-style: italic;
-    font-size: 20px;
+body article {
+  &.post .post-header {
+    margin-bottom: 20px;
 
-    @media (max-width: 550px) {
-      font-size: 16px;
+    h2.title {
+      margin: 0;
+      border: 0;
+      padding: 0 0 5px 0;
     }
 
-    p {
-      padding: 10px 0;
-      margin: 0;
+    .meta {
+      font-style: italic;
+      color: #999;
+      position: relative;
+      top: 0;
+      padding: 0 0 10px 0;
     }
   }
 
-  h2 {
-    border-bottom: none;
-    margin-bottom: 20px;
+  .entry-content {
+    blockquote {
+      background: rgba(255, 176, 0, 0.35);
+      border-left: 5px solid #ffb000;
+      font-style: italic;
+      font-size: 20px;
 
-    &:before {
+      @media (max-width: 550px) {
+        font-size: 16px;
+      }
+
+      p {
+        padding: 10px 0;
+        margin: 0;
+      }
+    }
+
+    h2 {
       border-bottom: none;
+      margin-bottom: 20px;
+
+      &:before {
+        border-bottom: none;
+      }
     }
   }
 }
