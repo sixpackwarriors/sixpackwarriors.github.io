@@ -8,7 +8,7 @@ title: Six Pack Warriors Blog
 author: Six Pack Warriors
 simple_search: https://www.google.com/search
 description: A blog for those who crave to craft their own body through hard work
-keywords: muscle, abs, bodybuilding, health, fitness, happiness, goals, emotional, well-being, progress, gains, maximum, sets, reps, weight, volume, dumbbell, barbell, mass
+keywords: weight loss, muscle, abs, bodybuilding, health, fitness, happiness, goals, well-being, progress, gains, maximum, sets, reps, weight, volume, dumbbell, barbell, mass
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -20,7 +20,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: ken@sixpackwarriors.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -99,4 +99,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
