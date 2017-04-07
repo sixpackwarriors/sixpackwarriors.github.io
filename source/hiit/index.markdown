@@ -7,12 +7,12 @@ sharing: true
 footer: true
 ---
 
+
 Here are a list of my favorite HIIT routines.
 
 For more information on how to plan these routines in your body transformation system, check out my eBook *[Your Warrior Transformation](https://gumroad.com/l/ivVMS "Your Warrior Transformation eBook")*
 
-Routine 1
----
+<h2 class="routine-title">Routine 1</h2>
 **Total time: 11 minutes 15 seconds**
 
 Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
@@ -27,8 +27,7 @@ Perform at least 5 rounds of the following set of exercises, back to back. Note 
 
 
 
-Routine 2
----
+<h2 class="routine-title">Routine 2</h2>
 **Total time: 11 minutes 15 seconds**
 
 Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
@@ -41,8 +40,7 @@ Perform at least 5 rounds of the following set of exercises, back to back. Note 
 
 
 
-Routine 3
----
+<h2 class="routine-title">Routine 3</h2>
 **Total time: 8 minutes 45 seconds**
 
 Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
@@ -54,8 +52,7 @@ Perform at least 5 rounds of the following set of exercises, back to back. Note 
 
 
 
-Routine 4
----
+<h2 class="routine-title">Routine 4</h2>
 **Total time: 10 minutes**
 
 Perform these exercises for 45 seconds straight, then take a 15 second rest.
@@ -67,8 +64,7 @@ Do at least 10 rounds.
 
 
 
-Routine 5
----
+<h2 class="routine-title">Routine 5</h2>
 **Total time: 11 minutes 15 seconds**
 
 Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
