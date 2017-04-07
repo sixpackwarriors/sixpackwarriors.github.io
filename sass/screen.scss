@@ -8,6 +8,15 @@
 $subs-div-gray: rgb(49, 49, 49);
 $content-bg-color: rgb(24, 24, 24);
 
+.post-content-image-wrapper {
+  text-align: center;
+}
+
+article .entry-content img.post-content-image {
+  text-align: center;
+  max-width: 300px;
+}
+
 .routine-title {
   color: $color-main;
 }
