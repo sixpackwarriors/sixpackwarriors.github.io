@@ -32,6 +32,12 @@
 				{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
 		</h2>
 
+		{% if post.author %}
+		<p class="post-author">
+			By {{ post.author }}
+		</p>
+		{% endif %}
+
 		<div class="post-excert">
 			{% if post.summary %}
 		 		{{ post.summary }}
