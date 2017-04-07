@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sixpackwarriors.github.io/blog/2017/04/07/never-give-up/</loc>
+<lastmod>2017-04-07T08:38:38-07:00</lastmod>
+</url>
+<url>
 <loc>http://sixpackwarriors.github.io/blog/2017/04/06/quit-obsessing-over-your-weight/</loc>
 <lastmod>2017-04-06T12:58:47-07:00</lastmod>
 </url>
@@ -17,10 +21,10 @@
 <lastmod>2017-04-05T20:06:53-07:00</lastmod>
 </url>
 <url>
-<loc>http://sixpackwarriors.github.io/blog/</loc>
+<loc>http://sixpackwarriors.github.io/archives/</loc>
 </url>
 <url>
-<loc>http://sixpackwarriors.github.io/archives/</loc>
+<loc>http://sixpackwarriors.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/</loc>
@@ -48,5 +52,8 @@
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/blog/categories/warrior/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/persistence/</loc>
 </url>
 </urlset>
