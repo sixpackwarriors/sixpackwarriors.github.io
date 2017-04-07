@@ -100,6 +100,7 @@ body #content {
 
   .join-now-opt-in {
     width: 300px;
+    margin: 10px 0;
     display: inline-block;
     box-sizing: border-box;
 
@@ -337,15 +338,11 @@ body article {
       }
 
       .mc-field-group {
-        width: 300px;
+        width: 90%;
         display: inline-block;
         box-sizing: border-box;
 
         &.submit-wrapper {
-          max-width: 300px;
-          margin-left: 30px;
-          margin-right: 30px;
-
           input {
             background: $color-main;
           }
