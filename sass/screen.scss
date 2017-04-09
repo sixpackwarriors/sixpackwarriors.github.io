@@ -8,6 +8,11 @@
 $subs-div-gray: rgb(49, 49, 49);
 $content-bg-color: rgb(24, 24, 24);
 
+input {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
 .post-content-image-wrapper {
   text-align: center;
 }
@@ -317,8 +322,11 @@ body article {
       .blurb {
         font-size: 20px;
         color: #000;
-        font-weight: bold;
         padding-top: 40px;
+
+        p {
+          font-weight: 500;
+        }
       }
 
       form {

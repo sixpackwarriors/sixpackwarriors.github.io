@@ -14,9 +14,9 @@ Today I want to talk about **persistence.**<br/>
 <br/>
 I'm sure many of you have heard this topic so many times. But I wanted to try to give you another perspective on the matter.<br/>
 <br/>
-Take a moment to look at the living things around you. Guess what? Every one of those living things has probably more persistence than we do.
+Take a moment to look at the living things around you. Guess what? Every one of those living things has more persistence than we do.
 
-Your dog. Or your cat. Or your pet fish or hamster. Notice how they are so persistent in getting what they want. Sure, they might not be as smart as us, but they sure as hell don't give up trying to do something.
+Whether it's your dog, your cat, your pet fish or hamster. Notice how they are so persistent in getting what they want. Sure, they might not be as smart as us, but they sure as hell don't give up trying to do something.
 
 <iframe src="//giphy.com/embed/67BZPE8f0aPe0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
@@ -26,7 +26,7 @@ And no matter how I try to hide her toy from her, she will always try to find wa
 
 The same thing can be said about plants. Look at how they persist in the way they grow. They find ways to bend, stretch, and curl so that they can get the maximum amount of exposure to a light source. Do you think they'll ever just give up suddenly? No way. Not until they die.
 
-Having a higher level of intelligence is a double-edged sword. Sure, it has made us smarter, but it has also given us the ability to doubt ourselves more often, to the point where we usually give up on our goal after a couple of attempts.
+Having a higher level of intelligence is a double-edged sword. Sure, it has made us smarter, but it has also given us the ability to doubt ourselves more often. It has made us fear failure, to the point where we usually give up on our goal after a couple of attempts.
 
 So as warriors, we need to shut off the part of our brain that's spewing out all of those limiting and negative thoughts, and we need to just go after the things we want with the utmost persistence and confidence.
 
