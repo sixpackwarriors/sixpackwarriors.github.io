@@ -71,7 +71,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: SixPackWarriors
 twitter_tweet_button: true
 
 # Google +1
@@ -96,7 +96,7 @@ disqus_short_name: sixpackwarriors
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-97386636-1
 
 # Facebook Like
 facebook_like: true
