@@ -51,7 +51,14 @@
 		</div>
 	</div>
 
-	<div id="content" class="inner">{{ content | expand_urls: root_url }}</div>
+	<div id="content" class="inner">
+		<div class="main-content content-block">
+			{{ content | expand_urls: root_url }}
+		</div>
+		<!-- <div class="sidebar-content content-block">
+			sidebar goes here
+		</div> -->
+	</div>
 	<footer id="footer" class="inner">{% include footer.html %}</footer>
 	{% include after_footer.html %}
 </body>
