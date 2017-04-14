@@ -2,11 +2,19 @@
 <h4>{{site.subtitle}}</h4> -->
 <nav id="main-nav">{% include navigation.html %}</nav>
 <nav id="mobile-nav">
-	<div class="alignleft menu">
+	<ul id="slick-menu">
+		<li><a href="{{ root_url }}/">Blog</a></li>
+		<li><a href="{{ root_url }}/hiit">HIIT</a></li>
+		<li><a href="{{ root_url }}/archives">Archive</a></li>
+		<li><a href="http://www.sixpackwarriors.com">Six Pack Warriors</a></li>
+	</ul>
+
+	<!-- <div class="alignleft menu">
 		<a class="button">Menu</a>
 		<div class="container">{% include navigation.html %}</div>
-	</div>
-	<div class="alignright search">
+	</div> -->
+
+	<!-- <div class="alignright search">
 		<a class="button"></a>
 		<div class="container">
 			<form action="{{ site.simple_search }}" method="get">
@@ -14,7 +22,13 @@
 				<input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
 			</form>
 		</div>
-	</div>
+	</div> -->
 </nav>
+
+<script>
+    $(function(){
+        $('#slick-menu').slicknav();
+    });
+</script>
 
 {% include custom/header.html %}

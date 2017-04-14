@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Never Give Up"
-date: 2017-04-07 08:38:38 -0700
+date: 2017-04-10 08:38:38 -0700
 comments: true
 author: Ken
 image: images/featured/persistence.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Dieting, Now!"
-date: 2017-04-08 21:55:36 -0700
+date: 2017-04-11 21:55:36 -0700
 author: "Ken"
 comments: true
 image: /images/featured/diets_suck.png

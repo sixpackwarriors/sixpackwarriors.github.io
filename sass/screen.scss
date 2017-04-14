@@ -8,6 +8,30 @@
 $subs-div-gray: rgb(49, 49, 49);
 $content-bg-color: rgb(24, 24, 24);
 
+.archive-list {
+  article {
+    a.post-title {
+      color: $color-main;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.slicknav_menu {
+  @media screen and (min-width: 600px){
+    display: none;
+  }
+}
+
+header, #main-nav, #main-nav + #mobile-nav {
+  @media screen and (max-width: 600px) {
+    display: none;
+  }
+}
+
 input {
   -webkit-appearance: none;
   border-radius: 0;
