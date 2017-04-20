@@ -3,7 +3,7 @@ layout: post
 title: "HIIT It, Don't Quit It"
 date: 2017-04-14 10:49:39 -0700
 comments: true
-image: /images/featured/diets_suck.png
+image: /images/featured/hiit.png
 author: "Ken"
 categories: [hiit]
 ---
