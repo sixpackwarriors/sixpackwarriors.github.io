@@ -55,7 +55,7 @@ article .entry-content img.post-content-image {
   width: 100%;
 
   background: #111;
-  background-image: url('/images/ripped-abs-hero.png');
+  background-image: url('/images/kenhero.png');
   background-repeat: no-repeat;
   background-position: center;
   // background-attachment: fixed;
@@ -449,5 +449,25 @@ body article {
 
   .post-summary .post-summary-content {
     width: 100%;
+  }
+}
+
+
+.share-page {
+  text-align: center;
+  // background: $secondary-color;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 5px;
+
+  a {
+    font-weight: 700;
+    color: $color-main;
+    margin-left: 10px;
+
+    &:hover {
+        border-bottom: 1px dashed #fff;
+    }
   }
 }

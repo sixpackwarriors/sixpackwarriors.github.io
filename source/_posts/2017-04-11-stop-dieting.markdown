@@ -19,7 +19,7 @@ How many times have you or people you know claimed that they're starting a new d
 
 Probably way too often. And it's not their fault. Through technology and clever marketing tactics, diets like Paleo or Atkins, fat-burning supplements, and detox or cleansing diet fads have all caused a significant amount of noise and influenced the masses in an instant. “Lose 20 pounds in 10 days,” they say. Wow! Who wouldn't want the quick and easy fix?
 
-In the world today, people tend to migrate towards the quick and easy solution to achieving the results that they want. Just take a quick look at your surroundings. How much of the technology around you was built to make your life easier so that you don't have to do anything anymore?
+In the world today, many gravitate towards the quick and easy solution to achieving the results that they want. Just take a quick look at your surroundings. How much of the technology around you was built to make your life easier so that you don't have to do anything anymore?
 
 Unfortunately, these quick-fix solutions are often times not scalable, and when it comes to your health, it's simply not worth risking the unknown side effects. Remember that Rome was not built in a day, and neither should your weight loss journey be.
 

@@ -5,3 +5,26 @@ Copyright &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
 {% endif %}
 <br>
+
+<!-- Social share -->
+<script>
+  var socialShareButtons = [
+    "facebook",
+    "twitter",
+    "google-plus",
+    "pinterest",
+    "reddit",
+    "linkedin",
+    "stumbleupon",
+    // "telegram",
+    // "tumblr",
+    // "vk",
+    "whatsapp"
+  ];
+  $("body").floatingSocialShare({
+    buttons: socialShareButtons,
+    twitter_counter: true,
+    text: "share with: ",
+    url: "http://blog.sixpackwarriors.com"
+  });
+</script>
