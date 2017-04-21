@@ -26,7 +26,7 @@ Those who have my digital bundle of Your Warrior Transformation can plan out the
 
 Also, if you don’t know your lean proteins, fibrous carbs, or starchy carbs, be sure to visit this section of my blog. There, you will find my favorite food items among these categories to mix and match, so you can create your own fat burning meals!
 
-  So go ahead and try eating these meals (or the ones you create) today. Let me know how you feel afterwards!  I look forward to hearing back from you.  
+  So go ahead and try eating these meals (or the ones you create) today. Let me know how you feel afterwards!   I look forward to hearing back from you.  
 
 Your warrior companion, <br/>
 Ken Yu 
