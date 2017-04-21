@@ -8,7 +8,7 @@ author: "Ken"
 categories: [fat burn, metabolism, macronutrients]
 ---
 
-Hey warriors,<br/>
+Hey Warriors,<br/>
 <br/>
 I'm going to cut straight to the chase here.<br/>
 <br/>

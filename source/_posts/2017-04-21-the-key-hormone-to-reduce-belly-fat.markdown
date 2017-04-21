@@ -8,7 +8,7 @@ author: "Ken Yu"
 categories: [hormones, well-being]
 ---
 
-Hey warriors,<br/>
+Hey Warriors,<br/>
 <br/>
 Think about your usual day, and ask yourself this:<br/>
 <br/>
