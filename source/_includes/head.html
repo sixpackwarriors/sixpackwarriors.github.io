@@ -6,7 +6,9 @@
 	<script src="//use.typekit.net/egh5nsv.js"></script>
 	<script>try{Typekit.load();}catch(e){}</script>
 	<meta charset="utf-8">
-	<meta property="og:image" content="{{ root_url }}/images/instagram.png" />
+	<meta property="og:image" content="{{ root_url }}/images/instagram.png"/>
+	<meta property="og:image:secure_url" content="{{ root_url }}/images/instagram.png" />
+
 	<title>{% if page.title %}{{ page.title }} {% else %}{{site.subtitle}} {% endif %} | {{ site.title }}</title>
 	<meta name="author" content="{{ site.author }}">
 	{% capture description %}{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
