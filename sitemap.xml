@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sixpackwarriors.github.io/blog/2017/04/22/top-3-weight-lifting-mistakes/</loc>
+<lastmod>2017-04-22T16:12:06-07:00</lastmod>
+</url>
+<url>
 <loc>http://sixpackwarriors.github.io/blog/2017/04/21/top-3-benefits-of-hiit-for-your-successful-journey/</loc>
 <lastmod>2017-04-21T19:39:48-07:00</lastmod>
 </url>
@@ -99,5 +103,11 @@
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/blog/categories/well-being/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/weight-lifting/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/posts/2/</loc>
 </url>
 </urlset>
