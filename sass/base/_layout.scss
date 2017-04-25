@@ -8,7 +8,6 @@ body{
 	font-family: "proxima-nova-1", "proxima-nova-2", "Helvetica Neue", Arial, sans-serif;
 	font-size: 16px;
 	font-weight: 300;
-	line-height: 1.5;
 	background: $color-background;
     color: $color-gray01;
 	@media screen and (max-width: 1040px){
@@ -17,6 +16,10 @@ body{
 	@media screen and (max-width: 600px){
 		font-size: 13px;
 		margin: 0 00px;
+	}
+
+	p {
+		line-height: 1.5em;
 	}
 }
 

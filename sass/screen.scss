@@ -22,7 +22,8 @@ ul li {
 #content .main-content.content-block {
   .posts-container {
     overflow: auto;
-    padding: 0 40px;
+    margin: auto;
+    width: 80%;
 
     @media screen and (max-width: 960px) {
       padding: 0;
@@ -46,7 +47,7 @@ ul li {
       padding: 10px;
     }
 
-    @media screen and (max-width: 580px) {
+    @media screen and (max-width: 640px) {
       width: 100%;
       padding: 10px 5px;
     }
@@ -66,9 +67,8 @@ ul li {
       // overflow: hidden;
       width: 100%;
       margin: 0;
-      padding: 0px 20px;
       height: 80px;
-
+      padding: 0;
 
       h2.title {
         width: 100%;
@@ -80,8 +80,12 @@ ul li {
         // font-family: Verdana;
 
         a {
-          font-size: 16px;
-          line-height: 80px;
+          text-align: left;
+          padding: 0px 20px;
+          display: block;
+          height: 85px;
+          font-size: 18px;
+          line-height: 85px;
           overflow: hidden;
           text-overflow: ellipsis;
           white-space: nowrap;
@@ -594,6 +598,7 @@ body article {
 
 
 #content.inner {
+  margin-top: 20px;
   position: relative;
   text-align: left;
   width: 100%;
