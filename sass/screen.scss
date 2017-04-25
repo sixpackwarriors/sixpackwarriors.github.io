@@ -22,7 +22,11 @@ ul li {
 #content .main-content.content-block {
   .posts-container {
     overflow: auto;
-    // position: relative;
+    padding: 0 40px;
+
+    @media screen and (max-width: 960px) {
+      padding: 0;
+    }
   }
 
   article.post-summary-content {
@@ -34,16 +38,15 @@ ul li {
     width: 33%;
     box-sizing: border-box;
     float: left;
-    // height: 420px;
     overflow: hidden;
     padding: 15px;
 
-    @media screen and (max-width: 980px) {
+    @media screen and (max-width: 1140px) {
       width: 50%;
       padding: 10px;
     }
 
-    @media screen and (max-width: 540px) {
+    @media screen and (max-width: 580px) {
       width: 100%;
       padding: 10px 5px;
     }
@@ -52,7 +55,7 @@ ul li {
       transition: 0.3s all;
       border: 1px solid #eee;
       overflow: hidden;
-      box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 0 1px 5px 0px rgba(0,0,0,0.15);
 
       &:hover {
         box-shadow: 0 3px 6px 2px rgba(0, 0, 0, 0.3);
