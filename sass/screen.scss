@@ -26,7 +26,11 @@ ul li {
     width: 80%;
 
     @media screen and (max-width: 960px) {
-      padding: 0;
+      width: 90%;
+    }
+
+    @media screen and (max-width: 640px) {
+      width: 100%;
     }
   }
 
@@ -67,7 +71,6 @@ ul li {
       // overflow: hidden;
       width: 100%;
       margin: 0;
-      height: 80px;
       padding: 0;
 
       h2.title {
@@ -89,6 +92,12 @@ ul li {
           overflow: hidden;
           text-overflow: ellipsis;
           white-space: nowrap;
+
+          @media screen and (max-width: 640px) {
+            font-size: 15px;
+            height: 65px;
+            line-height: 65px;
+          }
         }
       }
     }
