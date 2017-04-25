@@ -6,11 +6,12 @@ layout: default
 <div class="posts-container">
 {% for post in paginator.posts %}
 {% assign content = post.content %}
-    <article class="post-summary">
-      <div class="post-card">
-        {% include article_summary.html %}
-      </div>
-    </article>
+{% assign post_image = post.image %}
+<article class="post-summary">
+  <div class="post-card">
+    {% include article_summary.html %}
+  </div>
+</article>
 {% endfor %}
 </div>
 

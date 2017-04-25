@@ -19,11 +19,19 @@ ul li {
   }
 }
 
+.post-hero {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 #content .main-content.content-block {
   .posts-container {
     overflow: auto;
     margin: auto;
-    width: 80%;
+    width: 100%;
 
     @media screen and (max-width: 960px) {
       width: 90%;
@@ -60,7 +68,7 @@ ul li {
       transition: 0.3s all;
       border: 1px solid #eee;
       overflow: hidden;
-      box-shadow: 0 1px 5px 0px rgba(0,0,0,0.15);
+      box-shadow: 0 1px 5px 0px rgba(0, 0, 0, 0.15);
 
       &:hover {
         box-shadow: 0 3px 6px 2px rgba(0, 0, 0, 0.3);
@@ -233,7 +241,7 @@ body #content {
   }
 
   article.page, section#comment {
-    width: 80%;
+    width: 100%;
     margin: auto;
   }
 
@@ -244,7 +252,7 @@ body #content {
   article.post, .share {
     border-top: 0;
     margin: auto;
-    width: 80%;
+    width: 100%;
   }
 }
 
@@ -613,7 +621,11 @@ body footer {
   margin-top: 20px;
   position: relative;
   text-align: left;
-  width: 100%;
+  width: 80%;
+
+  @media screen and (max-width: 600px){
+    width: 100%;
+  }
 
   .main-content {
     width: 100%;

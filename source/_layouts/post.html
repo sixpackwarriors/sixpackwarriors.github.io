@@ -1,15 +1,18 @@
 ---
-layout: default
+layout: post_container
 single: true
 ---
 
-<article class="post">{% include article.html %}</article>
-{% if site.disqus_short_name and page.comments == true %}
+<div class="post-container">
+  <article class="post">{% include article.html %}</article>
+  {% if site.disqus_short_name and page.comments == true %}
 
-{% include sharing.html %}
+  {% include sharing.html %}
 
-<section id="comment">
-  <h2 class="title">Comments</h2>
-  <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
-</section>
-{% endif %}
+  <section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+  </section>
+  {% endif %}
+
+</div>
