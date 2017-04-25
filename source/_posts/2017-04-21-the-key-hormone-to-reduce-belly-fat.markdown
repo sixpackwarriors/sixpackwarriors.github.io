@@ -3,7 +3,7 @@ layout: post
 title: "Know This Hormone to Reduce Belly Fat"
 date: 2017-04-21 14:20:09 -0700
 comments: true
-image: /images/featured/cortisol.png
+image: /images/featured/cortisol.jpg
 author: "Ken Yu"
 categories: [hormones, well-being]
 ---

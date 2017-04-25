@@ -37,7 +37,7 @@ The same idea can be applied to shortcuts in weight loss. You may get the quick 
 
 With that said, understand that only a part of your body transformation journey requires you to obtain the necessary information regarding nutrition and exercise, and harness this knowledge to construct a system that fits your lifestyle.
 
-The bulk of your efforts throughout your journey requires you to actually execute upon your plan diligently with your utmost warrior mentality. You need to push yourself to do the things that you need to do, even when your mind is holding you back, begging you not to change, or dying for the easy way out. You need to short-circuit the limiting beliefs which exist in your mind, and you need to ignite the beliefs that you can and that you will. This is the warrior lifestyle.
+The bulk of your efforts throughout your journey requires you to actually execute upon your plan diligently with your utmost warrior mentality. You need to push yourself to do the things that you need to do, even when your mind is holding you back, begging you not to change, or dying for the easy way out. You need to short-circuit the limiting beliefs which exist in your mind, and you need to ignite the beliefs that you can and that you will. This is the warrior mentality.
 
 It's time to get off the amateur diet.
 
@@ -45,4 +45,4 @@ It's time to quit being average.
 
 It's time to do it the right way.
 
-**Start building the foundation of your transformation by developing a strong mindset. Then, take everything you learned, and use your warrior mentality to transform your body.**
+**Start building the foundation of your transformation by developing a strong mindset. Then, take everything you learn, and tap into your warrior mentality to transform your body.**

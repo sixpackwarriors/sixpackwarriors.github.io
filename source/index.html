@@ -3,10 +3,16 @@ layout: default
 ---
 
 {% assign index = true %}
+<div class="posts-container">
 {% for post in paginator.posts %}
 {% assign content = post.content %}
-    <article class="post-summary">{% include article_summary.html %}</article>
+    <article class="post-summary">
+      <div class="post-card">
+        {% include article_summary.html %}
+      </div>
+    </article>
 {% endfor %}
+</div>
 
 <div id="pagenavi">
   {% if paginator.previous_page %}

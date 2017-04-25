@@ -13,7 +13,7 @@
 	</div>
 
 	<div class="post-description">
-		{% if post.date %}
+		<!-- {% if post.date %}
 			{% capture date %}{{ post.date_html }}{% endcapture %}
 			<div class="date-wrapper">
 				<p>
@@ -21,7 +21,7 @@
 					{{ date }}
 				</p>
 			</div>
-		{% endif %}
+		{% endif %} -->
 
 		<h2 class="title">
 			{% if post.external-url %}
@@ -32,7 +32,7 @@
 				{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a>
 		</h2>
 
-		{% if post.author %}
+		<!-- {% if post.author %}
 		<p class="post-author">
 			By {{ post.author }}
 		</p>
@@ -45,6 +45,6 @@
 				{{ post.content | truncate: 400 }}
 			{% endif %}
 		 	<a rel="full-article" href="{{ root_url }}{{ post.url }}">read more...</a>
-		 </div>
+	 </div> -->
 	</div>
 </div>
