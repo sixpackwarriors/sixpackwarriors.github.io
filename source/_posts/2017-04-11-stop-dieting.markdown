@@ -31,7 +31,7 @@ If that concept is not clear enough, then imagine taking the stairs down from th
 
 The same idea can be applied to shortcuts in weight loss. You may get the quick results that you seek by taking some magic pill or cutting out carbs completely, but over time, this solution won't scale. Eventually, when you snap back to reality, you’ll just gain back all of the weight that you've lost, and then some, or even worse, permanently damage your body from the side effects of the supplements you took. Then, if you still have the chance, you'll have to start all over again, hopefully the right way next time. As John Wooden once said:
 
-> If you don't have time to do it right, when will you have time to do it over?
+> "If you don't have time to do it right, when will you have time to do it over?"
 
 **Bottom line - if you want something, you have to work for it. Especially when it comes to your health, shortcuts are simply not worth the risk. That kind of a "diet" is not the lifestyle that you can afford to sustain.**
 

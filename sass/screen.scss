@@ -8,6 +8,13 @@
 $subs-div-gray: rgb(49, 49, 49);
 $content-bg-color: rgb(24, 24, 24);
 
+#mce-responses {
+  div.response {
+    color: #000;
+    font-weight: 400;
+  }
+}
+
 .social-follow {
   text-align: center;
 }
@@ -132,6 +139,7 @@ body #content {
   }
 
   p {
+    margin: 20px 0;
   }
 
   article.page, section#comment {
@@ -306,10 +314,15 @@ body article {
 
   .entry-content {
     blockquote {
-      background: rgba(255, 176, 0, 0.35);
-      border-left: 5px solid #ffb000;
+      background: none;
+      border-left: none;
+      // border-left: 5px solid #ffb000;
       font-style: italic;
-      font-size: 20px;
+      font-size: 24px;
+      font-weight: 400;
+      text-align: center;
+      padding: 10px 0;
+      margin: 0;
 
       @media (max-width: 550px) {
         font-size: 16px;
@@ -410,10 +423,28 @@ body article {
         p {
           font-weight: 500;
         }
+
+        @media (max-width: 420px) {
+          font-size: 14px;
+        }
       }
 
       form {
         padding-top: 10px;
+
+        @media (max-width: 420px) {
+          .mc-field-group input {
+            padding: 8px;
+            margin: 3px 0;
+            font-size: 15px;
+          }
+
+          .submit-wrapper input {
+            padding: 6px 12px;
+          }
+        }
+
+
       }
 
       .picture-container {
