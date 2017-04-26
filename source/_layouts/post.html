@@ -4,9 +4,10 @@ single: true
 ---
 
 <div class="post-container">
-  <article class="post">{% include article.html %}</article>
+  <article class="post">
+    {% include article.html %}
+  </article>
   {% if site.disqus_short_name and page.comments == true %}
-
   {% include sharing.html %}
 
   <section id="comment">

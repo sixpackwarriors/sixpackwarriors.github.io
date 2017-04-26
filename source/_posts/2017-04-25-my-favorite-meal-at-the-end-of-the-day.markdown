@@ -3,6 +3,7 @@ layout: post
 title: "My Favorite Meal at the End of the Day"
 date: 2017-04-25 20:12:54 -0700
 comments: true
+author: Ken Yu
 image_preview: /images/featured/preview/end_of_day_meal.jpg
 image_full: /images/featured/full/end_of_day_meal.jpg
 categories: [calorie taper]
@@ -18,23 +19,28 @@ Today I want quickly share with you what *my* favorite meal looks like as the da
 
 So here's what you'll need:
 
-- 3oz salmon filet
+- 3 oz. salmon filet
 - 1 red bell pepper
 - A bunch of asparagus
+- Some olive oil
 
 *Instructions:*
 
-1. Set the oven to 450 degrees, and shove the salmon in there. If your salmon is frozen like mine, you don't need to wait for it to thaw. Just heat it for 30 minutes. If your salmon is already thawed, heat it for 20.
+1. Set the oven to 450 degrees, and throw the salmon in there. If your salmon is frozen like mine, you don't need to wait for it to thaw. Just bake it for 30 minutes. If your salmon is already thawed, bake it for 20.
 
-2. 10 minutes before the salmons done, spray pan with olive oil and heat it up on medium. Cut the asparagus stalks and throw them on the pan. Saute for 5 minutes. While that's happening, cut the bell pepper and toss that into the pan. Saute for 5 minutes.
+2. 10 minutes before the salmons done, spray pan with olive oil and heat it up on medium.
 
-By now, the salmon should be done. Take it out of the oven and serve it with vegetables on the side.
+3. Cut the asparagus stalks and throw them into the pan. Saute occasionally, for 5 minutes.
 
-Here's what it looks like:
+4. Cut the bell pepper and add that into the pan. Saute everything for 5 minutes.
+
+By now, the salmon should be done. Take it out of the oven and serve it with vegetables on the side. Feel free to garnish with whatever seasoning you like.
+
+Here's what mine looks like:
 
 Super easy, super clean, and super fat burning.
 
 Enjoy this meal warriors.
 
-Your warrior companion,
+Your warrior companion,<br/>
 Ken Yu

@@ -50,7 +50,9 @@
 	<header id="header">{% include header.html %}</header>
 	<div class="post-hero" style="background-image:url({{page.image_full}});"></div>
 
+
 	<div id="content" class="inner">
+		{% assign author = page.author %}
 		<div class="main-content content-block">
 			{{ content | expand_urls: root_url }}
 		</div>
