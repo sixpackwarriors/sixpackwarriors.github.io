@@ -3,7 +3,8 @@ layout: post
 title: "Top 3 Reasons Why HIIT Will Help You Achieve Success"
 date: 2017-04-21 19:39:48 -0700
 comments: true
-image: /images/featured/hiit_2.png
+image_preview: /images/featured/preview/hiit_2.jpg
+image_full: /images/featured/full/hiit_2.jpg
 author: "Ken Yu"
 categories:
 ---

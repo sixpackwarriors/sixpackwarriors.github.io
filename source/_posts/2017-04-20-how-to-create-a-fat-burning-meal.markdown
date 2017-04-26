@@ -3,7 +3,8 @@ layout: post
 title: "How to Create a Fat Burning Meal"
 date: 2017-04-20 15:06:22 -0700
 comments: true
-image: /images/featured/meal.jpg
+image_preview: /images/featured/preview/meal.jpg
+image_full: /images/featured/full/meal.jpg
 author: "Ken"
 categories: [fat burn, metabolism, macronutrients]
 ---

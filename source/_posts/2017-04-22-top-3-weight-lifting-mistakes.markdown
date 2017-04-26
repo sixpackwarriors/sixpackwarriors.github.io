@@ -3,7 +3,8 @@ layout: post
 title: "Top 3 Weight Lifting Mistakes"
 date: 2017-04-22 16:12:06 -0700
 comments: true
-image: /images/featured/weight_training_mistakes.jpg
+image_preview: /images/featured/preview/weight_training_mistakes.jpg
+image_full: /images/featured/full/weight_training_mistakes.jpg
 author: Ken Yu
 categories: [weight lifting]
 ---

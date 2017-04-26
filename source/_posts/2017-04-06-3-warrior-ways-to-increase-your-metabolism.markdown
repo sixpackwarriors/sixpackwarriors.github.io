@@ -4,7 +4,8 @@ title: "3 Warrior Ways to Increase Your Metabolism"
 date: 2017-04-06 20:06:53 -0700
 author: "Ken"
 comments: true
-image: /images/featured/metabolism.jpeg
+image_preview: /images/featured/preview/metabolism.jpeg
+image_full: /images/featured/full/metabolism.jpeg
 categories: [metabolism]
 ---
 
