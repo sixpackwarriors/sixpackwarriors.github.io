@@ -4,7 +4,7 @@ title: "Stop Obsessing Over Calories"
 date: 2017-04-12 13:28:54 -0700
 comments: true
 author: Ken
-image: images/featured/macronutrient_ratios.png
+image: /images/featured/macronutrient_ratios.png
 categories: [macronutrients]
 ---
 
