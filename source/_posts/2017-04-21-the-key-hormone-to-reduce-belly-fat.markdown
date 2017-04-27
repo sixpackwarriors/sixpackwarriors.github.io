@@ -9,17 +9,17 @@ author: "Ken Yu"
 categories: [hormones, well-being]
 ---
 
-Hey Warriors,<br/>
-<br/>
-Think about your usual day, and ask yourself this:<br/>
-<br/>
-How often do you feel stressed?<br/>
-<br/>
-You might think that’s a weird question to ask, especially when I’m supposed to tell you how you can get rid of your stubborn belly fat. <br/>
-<br/>
-But that question is actually extremely relevant. Because get this: <br/>
-<br/>
-When you’re stressed, your body actually stores more fat!
+Hey Warriors,
+
+Think about your usual day, and ask yourself this:
+
+**How often do you feel stressed?**
+
+You might think that’s a weird question to ask, especially when I’m supposed to tell you how you can get rid of your stubborn belly fat.
+
+But that question is actually extremely relevant. Because get this:
+
+**When you’re stressed, your body actually stores more fat!**
 
 That’s right. Let me introduce you to the hormone responsible for this behavior: **cortisol.**
 

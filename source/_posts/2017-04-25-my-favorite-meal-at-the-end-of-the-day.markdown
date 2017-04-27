@@ -15,14 +15,13 @@ By now, I hope you've learned that when the day comes to a close, you should low
 
 Today I want quickly share with you what *my* favorite meal looks like as the day comes to an end.
 
-**This meal is really easy to make, takes less than 10 minutes of actual work, and burns your fat like crazy.**
+**This meal is really easy to make, takes less than 5 minutes of actual work, and burns your fat like crazy.**
 
 So here's what you'll need:
 
-- 3 oz. salmon filet
+- 3 oz. salmon filet (thawed)
 - 1 red bell pepper
 - A bunch of asparagus
-- Some olive oil
 
 Here's what the main ingredients look like:
 
@@ -32,17 +31,15 @@ Here's what the main ingredients look like:
 
 *Instructions:*
 
-1. Set the oven to 450 degrees, and throw the salmon in there. If your salmon is frozen like mine, you don't need to wait for it to thaw. Just bake it for 30 minutes. If your salmon is already thawed, bake it for 20.
+1. Set the oven to 450 degrees, while bringing a pot of water to boil, enough to cover all of the asparagus.
 
-2. 10 minutes before the salmons done, spray pan with olive oil and heat it up on medium.
+2. Once the water starts boiling, throw in all of the asparagus, and boil for 1 minute, then drain.
 
-3. Cut the asparagus stalks and throw them into the pan. Saute occasionally, for 5 minutes.
+3. Wrap the salmon, asparagus, and bell peppers in foil, and then throw it into the oven. Bake for 20 minutes.
 
-4. Cut the bell pepper and add that into the pan. Saute everything for 5 minutes.
+That's it. When the timer's done, take your foil pack out of the oven and serve on a plate. Feel free to garnish with whatever seasoning you like.
 
-By now, the salmon should be done. Take it out of the oven and serve it with vegetables on the side. Feel free to garnish with whatever seasoning you like.
-
-Here's what mine looks like when it's all done:
+Here's what it should look like when it's all done:
 
 <a href="/images/posts/nightmeal/after.png" alt="Salmon - Cooked" class="image-link-wrapper">
   <img src="/images/posts/nightmeal/after.png"/ class="max-width-image">
