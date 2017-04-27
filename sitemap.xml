@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sixpackwarriors.github.io/blog/2017/04/27/my-transformation-story/</loc>
+<lastmod>2017-04-27T12:53:23-07:00</lastmod>
+</url>
+<url>
 <loc>http://sixpackwarriors.github.io/blog/2017/04/25/my-favorite-meal-at-the-end-of-the-day/</loc>
 <lastmod>2017-04-25T20:12:54-07:00</lastmod>
 </url>
@@ -113,5 +117,11 @@
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/blog/categories/calorie-taper/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/transformation-story/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/posts/2/</loc>
 </url>
 </urlset>
