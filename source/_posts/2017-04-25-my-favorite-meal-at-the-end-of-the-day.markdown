@@ -4,8 +4,8 @@ title: "My Favorite Meal to Wrap Up the Day"
 date: 2017-04-25 20:12:54 -0700
 comments: true
 author: Ken Yu
-image_preview: /images/featured/preview/end_of_day_meal.jpg
-image_full: /images/featured/full/end_of_day_meal.jpg
+image_preview: /images/featured/preview/end_of_day_meal.png
+image_full: /images/featured/full/end_of_day_meal.png
 categories: [calorie taper]
 ---
 
@@ -24,6 +24,12 @@ So here's what you'll need:
 - A bunch of asparagus
 - Some olive oil
 
+Here's what the main ingredients look like:
+
+<a href="/images/posts/nightmeal/before.png" alt="Salmon Prep" class="image-link-wrapper">
+  <img src="/images/posts/nightmeal/before.png"/ class="max-width-image">
+</a>
+
 *Instructions:*
 
 1. Set the oven to 450 degrees, and throw the salmon in there. If your salmon is frozen like mine, you don't need to wait for it to thaw. Just bake it for 30 minutes. If your salmon is already thawed, bake it for 20.
@@ -36,7 +42,11 @@ So here's what you'll need:
 
 By now, the salmon should be done. Take it out of the oven and serve it with vegetables on the side. Feel free to garnish with whatever seasoning you like.
 
-Here's what mine looks like:
+Here's what mine looks like when it's all done:
+
+<a href="/images/posts/nightmeal/after.png" alt="Salmon - Cooked" class="image-link-wrapper">
+  <img src="/images/posts/nightmeal/after.png"/ class="max-width-image">
+</a>
 
 Super easy, super clean, and super fat burning.
 
