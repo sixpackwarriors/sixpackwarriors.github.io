@@ -74,3 +74,23 @@ Perform at least 5 rounds of the following set of exercises, back to back. Note 
 - Jump Squats (Repeat for 30 seconds)
 - Sit Ups (Repeat for 30 seconds)
 - Rest (for 15 seconds)
+
+
+<h2 class="routine-title">Routine 6</h2>
+
+<div class="hiit-routine-container">
+  <div class="video-embed routine-info-wrapper">
+    <iframe class="hiit-embed" src="https://www.youtube.com/embed/VgWOP7eSyJA" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <div class="instructions routine-info-wrapper">
+    <p>Perform at least 3 rounds of the following set of exercises, back to back. No rest.</p>
+    <ul>
+      <li>High Knees</li>
+      <li>Push Ups + Mountain Climbers</li>
+      <li>Squats</li>
+      <li>Burpees</li>
+    </ul>
+    <p class="duration">Total time: 6 minutes</p>
+    <p class="youtube-link"><a href="https://www.youtube.com/watch?v=VgWOP7eSyJA&feature=youtu.be">Watch on YouTube</a></p>
+  </div>
+</div>

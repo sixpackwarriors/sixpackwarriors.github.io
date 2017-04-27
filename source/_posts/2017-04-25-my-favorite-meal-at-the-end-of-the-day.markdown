@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Favorite Meal at the End of the Day"
+title: "My Favorite Meal to Wrap Up the Day"
 date: 2017-04-25 20:12:54 -0700
 comments: true
 author: Ken Yu
