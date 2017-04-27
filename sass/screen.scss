@@ -363,6 +363,24 @@ body #content {
   }
 }
 
+a.image-link-wrapper {
+  text-align: center;
+  display: block;
+  margin: auto;
+
+  .max-width-image {
+    width: 480px;
+
+    @media (max-width: 550px) {
+      width: 360px;
+    }
+
+    @media (max-width: 420px) {
+      width: 278px;
+    }
+  }
+}
+
 .post-summary .post-summary-content .post-description {
   width: 70%;
 
@@ -415,20 +433,6 @@ body article.post-summary {
 }
 
 body article {
-  a.image-link-wrapper {
-    text-align: center;
-    display: block;
-    margin: auto;
-
-    .max-width-image {
-      max-width: 450px;
-
-      @media screen and (max-width: 480px) {
-        max-width: 280px;
-      }
-    }
-  }
-
   &.post .post-header {
     margin-bottom: 20px;
     color: $color-main;

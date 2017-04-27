@@ -55,6 +55,12 @@ Over the course of the following 6 months, I would then go on to **gain over 56 
 
 And by the 12th month of my body transformation journey, I had achieved what they call the "[Adonis Golden Ratio](http://www.bodybuildingweightprogram.com/golden-ratio/ "Adonis Golden Ratio")."
 
+Visually, here's my before and after:
+
+<a href="/images/posts/transformation_story/beforeafter.png" alt="Before and after, 12 month transformation journey" class="image-link-wrapper">
+  <img src="/images/posts/transformation_story/beforeafter.png"/ class="max-width-image">
+</a>
+
 Did I stop there? Absolutely not. To this day (almost 7 years later), I continue to polish my craft, from bulking up and leaning down, to planning around those curveballs that life throws at me every now and then. It’s a never-ending journey, and there is always room to improve.
 
 The best part about my journey is that the positive feedback never stops coming. Those who know me personally call me crazy for waking up at 4:30 in the morning to hit the gym before heading work. And just the other day, I bumped into an old high school friend who was shocked when she saw me, as she had remembered me as a scrawny kid, but was now calling me “swole.”
