@@ -35,7 +35,7 @@ Here's what the main ingredients look like:
 
 2. Once the water starts boiling, throw in all of the asparagus, boil the asparagus for 1 minute, and then drain.
 
-3. Wrap the salmon, asparagus, and bell peppers in foil, and then throw it into the oven. Bake for 12 minutes.
+3. Wrap the salmon, asparagus, and bell peppers in foil, and then throw it into the oven. Broil for 12 minutes.
 
 That's it. When the timer's done, take your foil pack out of the oven and serve on a plate. Feel free to garnish with whatever seasoning you like.
 
