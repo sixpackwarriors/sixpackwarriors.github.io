@@ -5,6 +5,7 @@ date: 2017-04-27 12:53:23 -0700
 comments: true
 image_preview: /images/featured/preview/transformation.png
 image_full: /images/featured/full/transformation.png
+image_position: right
 author: Ken Yu
 categories: [transformation story, motivation]
 ---
@@ -80,3 +81,5 @@ Cheers guys!
 
 Your warrior companion,<br/>
 Ken Yu
+
+*P.S. - If you would like my step-by-step blueprint on transforming your body, grab a copy of my eBook* Your Warrior Transformation, *available in all available formats, as well as my body transformation spreadsheet, right here:*  [https://gumroad.com/l/ivVMS](https://gumroad.com/l/ivVMS "Your Warrior Transformation")
