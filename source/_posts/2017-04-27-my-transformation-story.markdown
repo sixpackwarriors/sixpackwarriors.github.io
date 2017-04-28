@@ -20,8 +20,8 @@ I don’t exactly remember how it happened, but one day, I woke up with a little
 
 Who doesn’t, right? After all, six-pack abs basically turn heads anywhere.
 
-As an engineer at heart, I was naturally drawn to scientific and systematic ways of doing things. So after some time googling around for how to get those abs, I had found what I still believe to this day to be the best starting point for anyone’s body transformation:
-*[Burn the Fat, Feed the Muscle](http://amzn.to/2qbz82v "Burn the Fat, Feed the Muscle")* by Tom Venuto ([iBooks version](https://itunes.apple.com/au/book/burn-the-fat-feed-the-muscle/id708413335?mt=11 "iBooks version")). Little did I know that from that moment on, my life would change forever.
+As an engineer at heart, I was naturally drawn to scientific and systematic ways of doing things. So after some time googling around for how to get those abs, I had found a book that made sense to me and my body transformation desires:
+*[Burn the Fat, Feed the Muscle](http://amzn.to/2qbz82v "Burn the Fat, Feed the Muscle")* by Tom Venuto ([iBooks version](https://itunes.apple.com/au/book/burn-the-fat-feed-the-muscle/id708413335?mt=11 "iBooks version")). From that moment on, my life would change forever.
 
 I couldn’t put down the book. First of all, it completely took a massive dump on all of the fat burning myths, which are so pervasive in the “Fat Loss” industry — myths like the “lose 10 pounds of fat in 10 days” magazines that you see in the supermarket’s checkout counters, the “magic pill” that you take that makes you lose your appetite, those cleansing and fasting diets along with long, boring sessions of cardio, the unsustainable no carb/Atkins diets, you name it.
 

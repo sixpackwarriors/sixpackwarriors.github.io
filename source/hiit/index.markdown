@@ -13,9 +13,9 @@ Here are a list of my favorite HIIT routines.
 For more information on how to plan these routines in your body transformation system, check out my eBook *[Your Warrior Transformation](https://gumroad.com/l/ivVMS "Your Warrior Transformation eBook")*
 
 <h2 class="routine-title">Routine 1</h2>
-**Total time: 11 minutes 15 seconds**
+**Total time: 8 minutes**
 
-Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
+Perform at least 4 rounds of the following set of exercises, back to back.
 
 *At the end of this, you should be sweating hard, and your abs will be burning!*
 
@@ -23,19 +23,18 @@ Perform at least 5 rounds of the following set of exercises, back to back. Note 
 - Elbow to Knee Crunches (Repeat for 30 seconds)
 - Mountain Climbers (Repeat for 30 seconds)
 - Reverse Crunches (Repeat for 30 seconds)
-- Rest (for 15 seconds)
 
 
 
 <h2 class="routine-title">Routine 2</h2>
-**Total time: 11 minutes 15 seconds**
+**Total time: 9 minutes**
 
-Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
+Perform at least 4 rounds of the following set of exercises, back to back. Note the 15 second rest.
 
 - High Knees (Repeat for 30 seconds)
-- Push Up, Knees Crunch (Repeat for 30 seconds)
+- 1 Push Up + 1 Half Burpee (Repeat for 30 seconds)
 - Jumping Lunges (Repeat for 30 seconds)
-- Burpees (Repeat for 30 seconds)
+- Mountain Climbers (Repeat for 30 seconds)
 - Rest (for 15 seconds)
 
 
@@ -65,9 +64,9 @@ Do at least 10 rounds.
 
 
 <h2 class="routine-title">Routine 5</h2>
-**Total time: 11 minutes 15 seconds**
+**Total time: 9 minutes**
 
-Perform at least 5 rounds of the following set of exercises, back to back. Note the 15 second rest.
+Perform at least 4 rounds of the following set of exercises, back to back. Note the 15 second rest.
 
 - One arm half burpee (Repeat for 30 seconds)
 - One arm half burpee (use other arm) (Repeat for 30 seconds)
