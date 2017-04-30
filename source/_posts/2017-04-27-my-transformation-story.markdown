@@ -82,4 +82,4 @@ Cheers guys!
 Your warrior companion,<br/>
 Ken Yu
 
-*P.S. - If you would like my step-by-step blueprint on transforming your body, grab a copy of my eBook* Your Warrior Transformation, *available in all available formats, as well as my body transformation spreadsheet, right here:*  [https://gumroad.com/l/ivVMS](https://gumroad.com/l/ivVMS "Your Warrior Transformation")
+*P.S. - If you would like my step-by-step blueprint on transforming your body, grab a copy of my eBook* Your Warrior Transformation, *available in all available formats, as well as my body transformation spreadsheet, right here:  [https://gumroad.com/l/ivVMS](https://gumroad.com/l/ivVMS "Your Warrior Transformation"). To see if this book is right for you, [visit this page for more information](www.sixpackwarriors.com/ebook "More Information").*

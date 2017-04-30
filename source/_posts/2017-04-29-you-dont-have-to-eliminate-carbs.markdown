@@ -45,7 +45,7 @@ GI is a term used to measure how quickly your body can convert the food that you
 
 Foods with high GI spike your insulin levels, and foods with low GI allow for a more steady insulin response.
 
-The higher your insulin levels, the more your body stores the sugars as fat. The lower your insulin levels, the more your body absorbs it as energy for your liver and muscles.
+The higher your insulin levels, the more likely your body stores what you eat as fat. The lower your insulin levels, the less likely your body stores what you eat as fat.
 
 So, the main idea is this:
 
@@ -57,11 +57,13 @@ How do you know which foods cause a slow and steady insulin response, and which 
 
 Most of the time, you want to keep your insulin levels low. You should never need your insulin levels to be high, otherwise your body would be storing everything you eat as fat.
 
-### The One Exception - Intentionally Creating Insulin Spikes ###
+### The One Exception - When High Insulin Levels Are Beneficial ###
 
 However, there is one exception to the rule where high insulin levels will result in high fat stores.
 
-Specifically, can you think about a time when you would intentionally want your body to store the nutrients that you eat as energy for your liver and muscles?
+In fact, there is one instance where high insulin levels actually helps shuttle what you eat into your muscle and liver stores.
+
+Can you think of a time when you would intentionally want your body to store the nutrients that you eat as energy for your liver and muscles?
 
 This may sound a little crazy, but, how about *after exercising*?
 
