@@ -2,7 +2,7 @@
 layout: post
 title: "Stop Dieting, Now!"
 date: 2017-04-11 21:55:36 -0700
-author: "Ken"
+author: "Ken Yu"
 comments: true
 image_preview: /images/featured/preview/diets_suck.png
 image_full: /images/featured/full/diets_suck.png

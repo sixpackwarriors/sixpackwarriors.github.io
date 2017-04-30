@@ -2,7 +2,7 @@
 layout: post
 title: "How To Cure Your Hangover In 10 Minutes"
 date: 2017-04-07 09:32:53 -0700
-author: "Ken"
+author: "Ken Yu"
 comments: true
 image_preview: /images/featured/preview/hangover.jpg
 image_full: /images/featured/full/hangover.jpg

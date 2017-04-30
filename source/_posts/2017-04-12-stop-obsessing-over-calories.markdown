@@ -3,7 +3,7 @@ layout: post
 title: "Stop Obsessing Over Calories"
 date: 2017-04-12 13:28:54 -0700
 comments: true
-author: Ken
+author: Ken Yu
 image_preview: /images/featured/preview/macronutrient_ratios.jpg
 image_full: /images/featured/full/macronutrient_ratios.jpg
 categories: [macronutrients]
@@ -49,5 +49,5 @@ This means that instead of obsessing over counting calories, you should pay more
 
 As a guide:
 
-- If your goal is to **lose weight**, *20% of your calories should come from fat, 40% of your calories should come from carbohydrates, and 40% of your calories should come from protein.*
-- If your goal is to **gain muscle**, *20% of your calories should come from fat, 45% of your calories should come from carbohydrates, and 35% of your calories should come from protein.*
+- If your goal is to **lose weight**, consume at a 15% calorie deficit. *20% of your calories should come from fat, 40% of your calories should come from carbohydrates, and 40% of your calories should come from protein.*
+- If your goal is to **gain muscle**, consume at a 15% calorie surplus. *20% of your calories should come from fat, 45% of your calories should come from carbohydrates, and 35% of your calories should come from protein.*

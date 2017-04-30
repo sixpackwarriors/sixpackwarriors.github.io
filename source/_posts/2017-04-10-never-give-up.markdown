@@ -3,7 +3,7 @@ layout: post
 title: "Never Give Up"
 date: 2017-04-10 08:38:38 -0700
 comments: true
-author: Ken
+author: Ken Yu
 image_preview: /images/featured/preview/persistence.jpg
 image_full: /images/featured/full/persistence.jpg
 categories: [persistence]
