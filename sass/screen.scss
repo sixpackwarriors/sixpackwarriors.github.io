@@ -366,7 +366,7 @@ body #content {
       width: 100%;
 
       &:hover {
-        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
       }
     }
   }
@@ -493,6 +493,7 @@ body article {
     h3 {
       color: #000;
       font-weight: 400;
+      font-size: 24px;
     }
 
     blockquote {
@@ -508,6 +509,10 @@ body article {
 
       @media (max-width: 550px) {
         font-size: 16px;
+
+        h3 {
+          font-size: 28px;
+        }
       }
 
       p {
@@ -522,6 +527,14 @@ body article {
       color: #f00;
       width: 70%;
       margin: auto !important;
+
+      @media (max-width: 550px) {
+        width: 90%;
+      }
+
+      @media (max-width: 420px) {
+        width: 100%;
+      }
     }
 
     h2 {
@@ -733,6 +746,10 @@ body footer {
   .post-summary .post-summary-content {
     width: 100%;
   }
+
+  section#comment h2.title {
+    color: #000;
+  }
 }
 
 
@@ -792,5 +809,47 @@ body footer {
 
   .duration {
     font-weight: bold;
+  }
+}
+
+
+.subscribe-footer-wrapper {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+  padding: 30px;
+  background: #eee;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  max-width: 70%;
+
+  h2 {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  @media (max-width: 590px) {
+    max-width: 85%;
+
+    p {
+      font-size: 19px;
+    }
+  }
+
+  @media (max-width: 420px) {
+    max-width: 100%;
+
+    p {
+      font-size: 20px;
+    }
+  }
+
+  .join-now-opt-in.submit-wrapper {
+    margin: 0;
+    width: 100%;
   }
 }

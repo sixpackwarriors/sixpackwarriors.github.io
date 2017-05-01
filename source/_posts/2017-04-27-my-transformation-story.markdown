@@ -52,7 +52,7 @@ In fact, those who said that I couldn’t do it started asking for advice.
 
 I took all of these signals and fed them back into my system, creating a positive feedback loop that fueled more gains and helped me press the advantage.
 
-Over the course of the following 6 months, I would then go on to **gain over 56 pounds of muscle mass while maintaining my 6 pack abs.**
+Over the course of the following 6 months, I would then go on to **gain over 56 pounds of muscle mass while maintaining my six pack abs.**
 
 And by the 12th month of my body transformation journey, I had achieved what they call the "[Adonis Golden Ratio](http://www.bodybuildingweightprogram.com/golden-ratio/ "Adonis Golden Ratio")."
 
@@ -82,4 +82,4 @@ Cheers guys!
 Your warrior companion,<br/>
 Ken Yu
 
-*P.S. - If you would like my step-by-step blueprint on transforming your body, grab a copy of my eBook* Your Warrior Transformation, *available in all available formats, as well as my body transformation spreadsheet, right here:  [https://gumroad.com/l/ivVMS](https://gumroad.com/l/ivVMS "Your Warrior Transformation"). To see if this book is right for you, [visit this page for more information](www.sixpackwarriors.com/ebook "More Information").*
+*P.S. - If you would like my step-by-step blueprint on transforming your body, grab a copy of my eBook* Your Warrior Transformation, *available in all available formats, along with body transformation spreadsheet that I use to track my meals and workout routines, right here: [https://gumroad.com/l/ivVMS](https://gumroad.com/l/ivVMS "Your Warrior Transformation"). To see if this book is right for you, [visit this page for more information](www.sixpackwarriors.com/ebook "More Information").*
