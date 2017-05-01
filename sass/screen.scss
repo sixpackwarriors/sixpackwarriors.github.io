@@ -12,6 +12,33 @@ ul li {
   color: #000;
 }
 
+.block-container {
+  display: block;
+
+  .hiit-routine-container {
+    text-align: center;
+  }
+
+  .video-embed.routine-info-wrapper {
+    float: none;
+
+    .hiit-embed {
+      width: 560px;
+      height: 315px;
+
+      @media (max-width: 590px) {
+        width: 360px;
+        height: 202px;
+      }
+
+      @media (max-width: 420px) {
+        width: 278px;
+        height: 155px;
+      }
+    }
+  }
+}
+
 #mce-responses {
   div.response {
     color: #000;
@@ -446,6 +473,7 @@ body article {
       margin: 0;
       border: 0;
       padding: 0 0 5px 0;
+      color: $color-main;
 
       a {
         color: #fff;

@@ -3,8 +3,8 @@ layout: post
 title: "HIIT It, Don't Quit It"
 date: 2017-04-14 10:49:39 -0700
 comments: true
-image_preview: /images/featured/preview/hiit.png
-image_full: /images/featured/full/hiit.png
+image_preview: /images/featured/preview/hiit.jpg
+image_full: /images/featured/full/hiit.jpg
 author: "Ken Yu"
 categories: [hiit]
 ---
@@ -19,4 +19,19 @@ Needless to say, I am all about convenience and efficiency. I have a ton of othe
 
 What about you? Will you make excuses? Or will you just do it?
 
-Come check out my existing routines [right here on this page](/hiit "HIIT Routines")
+If you're still here, then I got a quick 6 minute HIIT routine right here:
+
+<div class="block-container">
+  <div class="hiit-routine-container">
+    <div class="video-embed routine-info-wrapper">
+      <iframe class="hiit-embed" src="https://www.youtube.com/embed/VgWOP7eSyJA" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+When you're done with that, come check out the rest of my existing routines [right here on this page](/hiit "HIIT Routines").
+
+Train hard, warriors!
+
+Your companion,<br/>
+Ken Yu
