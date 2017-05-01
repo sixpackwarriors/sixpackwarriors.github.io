@@ -59,8 +59,8 @@ Understanding these two different types of complex carbohydrates will help you k
 
 Just remember these two important points:
 
-- Surround the times of your day when your body is active, consume meals that contain mostly starchy carbs, coupled with some fibrous carbs
-- During the times of your day when your body is not active (ie. towards night time), replace all starchy carbs with fibrous carbs
+- During the times of your day when your body is active, consume meals that contain mostly starchy carbs, coupled with some servings of fibrous carbs.
+- During the times of your day when your body is not active (ie. towards night time), replace all starchy carbs with fibrous carbs.
 
 If you include these two rules into your meal plan while meeting your calorie targets, you will notice immense differences in the shape of your body.
 
