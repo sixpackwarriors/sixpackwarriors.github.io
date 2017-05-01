@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starchy VS. Fibrous Carbs"
+title: "Starchy Carbs VS. Fibrous Carbs - When to Eat What"
 date: 2017-04-30 19:35:09 -0700
 comments: true
 author: Ken Yu
