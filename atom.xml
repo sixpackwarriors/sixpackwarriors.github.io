@@ -4,7 +4,7 @@
   <title><![CDATA[Six Pack Warriors Blog]]></title>
   <link href="http://sixpackwarriors.github.io/atom.xml" rel="self"/>
   <link href="http://sixpackwarriors.github.io/"/>
-  <updated>2017-04-29T17:36:39-07:00</updated>
+  <updated>2017-04-30T19:27:41-07:00</updated>
   <id>http://sixpackwarriors.github.io/</id>
   <author>
     <name><![CDATA[Six Pack Warriors]]></name>
@@ -489,7 +489,23 @@ You gain another five pounds.<br/>
 
 <p>What about you? Will you make excuses? Or will you just do it?</p>
 
-<p>Come check out my existing routines <a href="http://sixpackwarriors.github.io/hiit" title="HIIT Routines">right here on this page</a></p>
+<p>If you&rsquo;re still here, then I got a quick 6 minute HIIT routine right here:</p>
+
+<div class="block-container">
+  <div class="hiit-routine-container">
+    <div class="video-embed routine-info-wrapper">
+      <iframe class="hiit-embed" src="https://www.youtube.com/embed/VgWOP7eSyJA" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+
+<p>When you&rsquo;re done with that, come check out the rest of my existing routines <a href="http://sixpackwarriors.github.io/hiit" title="HIIT Routines">right here on this page</a>.</p>
+
+<p>Train hard, warriors!</p>
+
+<p>Your companion,<br/>
+Ken Yu</p>
 ]]></content>
   </entry>
   
