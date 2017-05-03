@@ -73,28 +73,7 @@ Starchy Carbohydrates
 
 Remember, in order to build a body that is lean and shredded, you need to consume **lean proteins**, **fibrous carbs**, and **starchy carbs**! 
 
-For example, some of your meals can look like this.
-
-<strong>Sample Meal 1:</strong><br/>
-<ul>
-<li> 3 oz. salmon filet (lean protein + healthy fats)</li>
-<li>1/2 cup brown rice (complex carbs) </li>
-<li>1 cup spinach (fibrous carbs)  </li>
-</ul>
-
-<strong>Sample Meal 2:</strong><br/>
-<ul>
-<li> 3 oz. tilapia filet (lean protein)</li>
-<li>1/2 cup brown rice (complex carbs)  </li>
-<li>10 broccoli florets, cooked in olive oil + minced garlic (fibrous carbs + healthy fats)  </li>
-</ul>
-
-<strong>Sample Meal 3: </strong><br/>
-<ul>
-<li> 4 oz. chicken breast (lean protein)</li>
-<li>1/2 baked potato (starchy carbs)   </li>
-<li>1 zucchini (fibrous carbs)</li>
-</ul>
+[Here's a list of sample fat burning meals](/fat-burning-meals/ "Fat Burning Meals")
 
 [And here's a delicious recipe that you can make at home with 5 minutes of actual cooking](/blog/2017/04/25/my-favorite-meal-at-the-end-of-the-day/ "Delicious Salmon Recipe")
 

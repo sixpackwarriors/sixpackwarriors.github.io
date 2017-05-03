@@ -8,7 +8,8 @@
 $subs-div-gray: rgb(49, 49, 49);
 $content-bg-color: rgb(24, 24, 24);
 
-ul li {
+
+ul li, ol li {
   color: #000;
 }
 
@@ -497,6 +498,16 @@ body article {
 
       @media (max-width: 550px) {
         font-size: 26px;
+      }
+    }
+
+    h4 {
+      color: #000;
+      font-weight: 400;
+      font-size: 18px;
+
+      @media (max-width: 550px) {
+        font-size: 22px;
       }
     }
 
