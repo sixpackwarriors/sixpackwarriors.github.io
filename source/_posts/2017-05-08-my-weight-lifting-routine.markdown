@@ -13,13 +13,11 @@ Hey Warriors,
 
 One of the most common questions I'm asked when it comes to building muscle is:
 
-> What is your routine?
+> "What is your routine?"
 
-So I thought I'd share with you guys the staple routine that I follow 90% of the time (I rarely switch up the routine, because if it ain't broke, don't fix it).
+So I thought I'd share with you guys **the staple routine that I follow 99% of the time** (I rarely switch up the routine, because if it ain't broke, don't fix it). This is exactly the routine that I followed to pack on 56 pounds of muscle during the first 10 months of my body transformation journey.
 
-Another thing I'd like to add is that this is exactly the routine that I followed to pack on 56 pounds of muscle during the first 10 months of my body transformation journey.
-
-Also, for each exercise, I perform 3 sets of 6 to 8 reps. Once I can perform 8 with perfect form and tempo, I increase the weight.
+For each exercise, I perform 3 sets of 6 to 8 reps. Once I can perform 8 with perfect form and tempo, I increase the weight.
 
 I cycle through these routines, with 1 rest day in between.
 
