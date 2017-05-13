@@ -3,6 +3,7 @@ layout: post
 title: "My Weight Lifting Routine"
 date: 2017-05-08 19:57:26 -0700
 comments: true
+hidden: true
 image_preview: /images/featured/preview/weight_training_routine.jpg
 image_full: /images/featured/full/weight_training_routine.jpg
 author: Ken Yu
