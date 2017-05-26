@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sixpackwarriors.github.io/blog/2017/05/26/the-3-big-mistakes-youre-making-in-your-diet/</loc>
+<lastmod>2017-05-26T12:24:14-07:00</lastmod>
+</url>
+<url>
 <loc>http://sixpackwarriors.github.io/blog/2017/05/08/my-weight-lifting-routine/</loc>
 <lastmod>2017-05-08T19:57:26-07:00</lastmod>
 </url>
@@ -151,5 +155,17 @@
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/blog/categories/routine/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/diet/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/mistakes/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/fad-diet/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/calories/</loc>
 </url>
 </urlset>
