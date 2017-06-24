@@ -15,7 +15,7 @@ Today, I got an intense, 7 minute HIIT routine for you.
 
 We’re doing these 3 movements:
 
-Jump + Knee Tuck, Push Up + Mountain Climbers, High Knees
+Jump + Knee Tuck, Push Up + Mountain Climbers, Crunches
 
 Don’t underestimate this routine though, because the Jump + Knee Tuck movement will tire you out quickly. Try to catch your breath quickly during the 15 second rest break, and sip on a bit of water as well.
 
