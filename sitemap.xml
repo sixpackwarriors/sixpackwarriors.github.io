@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sixpackwarriors.github.io/blog/2017/06/24/fat-equals-gasoline/</loc>
+<lastmod>2017-06-24T19:28:40-07:00</lastmod>
+</url>
+<url>
 <loc>http://sixpackwarriors.github.io/blog/2017/06/24/she-said-yes/</loc>
 <lastmod>2017-06-24T15:20:37-07:00</lastmod>
 </url>
@@ -191,6 +195,15 @@
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/blog/categories/random/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/analogy/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/fat/</loc>
+</url>
+<url>
+<loc>http://sixpackwarriors.github.io/blog/categories/fuel/</loc>
 </url>
 <url>
 <loc>http://sixpackwarriors.github.io/posts/2/</loc>
